@@ -151,6 +151,7 @@ def spin(balance):
 
 # Main function of the programme
 def main():
+    print("Welcome to Lucky Jackpot Game!!!")
     balance = deposite()
     while True:
         print(f"Your current balance is {balance}.")
