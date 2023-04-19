@@ -1,4 +1,3 @@
-Sure, here's the entire `README.md` file with all the updates and changes:
 
 # Slot Machine Game
 
